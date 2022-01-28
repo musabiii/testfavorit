@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/testfavorit/static/css/main.abd64e84.css",
+    "main.js": "/testfavorit/static/js/main.03fe4a6e.js",
+    "index.html": "/testfavorit/index.html",
+    "main.abd64e84.css.map": "/testfavorit/static/css/main.abd64e84.css.map",
+    "main.03fe4a6e.js.map": "/testfavorit/static/js/main.03fe4a6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.03fe4a6e.js"
+  ]
+}
